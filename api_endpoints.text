@@ -1,0 +1,2 @@
+GET - https://nerda-prod-apis-v2.azurewebsites.net/api/ApiNerdaStatic
+GET - https://nerda-prod-apisv2.azurewebsites.net/api/ApiNerdaStatic?substation=74f42299-9f8e-4cb4-922c0e3273bff4c7

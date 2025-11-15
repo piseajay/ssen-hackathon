@@ -1,0 +1,6 @@
+background of the problem :
+As the distribution network evolves, the rapid increase in domestic solar PV, electrical vehicles, heat pumps, and home batteries is creating new voltage stability challenges. These fluctuations are often invisible to the public and difficult to quantify for many stakeholders. Without clear visualisation, it is hard to build shared understanding, influence policy, or inspire collaborative action.
+
+What is expected :
+Design an engaging visualization that reveals voltage stability issues OR network constraints to non-technical audiences. Your solution should make people care about a problem they can't see.
+Focus on peak demand aspect and make it crystal clear through interactive dashboards, data animations, or creative visual metaphors.
